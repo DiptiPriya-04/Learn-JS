@@ -1,0 +1,1 @@
+ console.log (alert("Hey are you right?"));
